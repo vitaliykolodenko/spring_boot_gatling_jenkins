@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3a8317c-1b03-4fd8-b625-06bbd7fad650" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Docker/Dockerfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple_boot_docker/src/test/java/com/kolodenko/simple_boot_docker/SimpleBootDockerApplicationTests.java" afterPath="$PROJECT_DIR$/simple_boot_docker/src/test/java/com/kolodenko/simple_boot_docker/SimpleBootDockerApplicationTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple_boot_name/src/test/java/com/kolodenko/simple_boot_name/SimpleBootNameApplicationTests.java" afterPath="$PROJECT_DIR$/simple_boot_name/src/test/java/com/kolodenko/simple_boot_name/SimpleBootNameApplicationTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Docker/Dockerfile" afterPath="$PROJECT_DIR$/Docker/Dockerfile" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/simple_boot_docker/target/" />
@@ -31,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Docker/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="95">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleBootNameApplicationTests.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimpleBootNameApplicationTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simple_boot_name/src/test/java/com/kolodenko/simple_boot_name/SimpleBootNameApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
@@ -162,9 +159,9 @@
         <option value="$PROJECT_DIR$/../../../aws/lambda-oreilly/hello-world-20180406/hello-world-advance.js" />
         <option value="$PROJECT_DIR$/../../../aws/lambda-oreilly/hello-world-20180406/mathematicswizard.js" />
         <option value="$PROJECT_DIR$/simple_boot_docker/src/test/scala/GatlingFunSpecExample.scala" />
-        <option value="$PROJECT_DIR$/Docker/Dockerfile" />
         <option value="$PROJECT_DIR$/simple_boot_docker/src/test/java/com/kolodenko/simple_boot_docker/SimpleBootDockerApplicationTests.java" />
         <option value="$PROJECT_DIR$/simple_boot_name/src/test/java/com/kolodenko/simple_boot_name/SimpleBootNameApplicationTests.java" />
+        <option value="$PROJECT_DIR$/Docker/Dockerfile" />
       </list>
     </option>
   </component>
@@ -620,12 +617,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522177316871</updated>
-      <workItem from="1522177318649" duration="34949000" />
+      <workItem from="1522177318649" duration="37907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34949000" />
+    <option name="totallyTimeSpent" value="37907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2085" height="1326" extended-state="0" />
@@ -984,14 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Docker/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/2.0.0.RELEASE/spring-boot-test-2.0.0.RELEASE.jar!/org/springframework/boot/test/context/SpringBootTest.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1028,6 +1017,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
