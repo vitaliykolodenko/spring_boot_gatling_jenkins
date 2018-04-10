@@ -3,7 +3,7 @@ import io.gatling.http.Predef._
 import io.gatling.http.funspec.GatlingHttpFunSpec
 class GatlingFunSpecExample extends GatlingHttpFunSpec {
 
-  val baseURL = "http://localhost:8080"
+  val baseURL = "http://localhost:8082"
   override def httpConf = super.httpConf.header("MyHeader", "MyValue")
   def pageHeader = css("h1")
 

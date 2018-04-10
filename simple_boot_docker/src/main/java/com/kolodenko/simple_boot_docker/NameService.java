@@ -5,7 +5,7 @@ import org.springframework.web.client.RestTemplate;
 
 @Service
 public class NameService {
-    public static final String URI = "http://localhost:8082/name";
+    public static final String URI = "http://localhost:8083/name";
     public RestTemplate restTemplate;
 
     public NameService(RestTemplate restTemplate) {
